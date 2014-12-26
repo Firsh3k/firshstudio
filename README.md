@@ -1,4 +1,0 @@
-firshstudio
-===========
-
-Firsh Studio
